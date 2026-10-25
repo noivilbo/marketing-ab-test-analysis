@@ -9,10 +9,10 @@ Difference (ad - psa),0.007692453192201517
 Relative lift,0.4308506402222583
 Relative lift 95% CI low,0.2982961017211221
 Relative lift 95% CI high,0.5733640939534626
-Difference 95% CI low (Wald),0.00595090043017032
-Difference 95% CI high (Wald),0.009434005954232714
-Difference 95% CI low (statsmodels),0.005873422353060636
-Difference 95% CI high (statsmodels),0.009360028811460754
+Difference 95% CI low (Wald),0.0059509324316110055
+Difference 95% CI high (Wald),0.009433973952792028
+Difference 95% CI low (statsmodels),0.005909839835480364
+Difference 95% CI high (statsmodels),0.009396451327547283
 Std. error (Wald),0.0008885473275669375
 "Std. error (pooled, for the test)",0.0010437410649006525
 z (statsmodels),7.3700781265454145
